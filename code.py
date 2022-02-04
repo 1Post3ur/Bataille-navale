@@ -1,1 +1,2 @@
-sale méchant et menteur
+import random
+from random import *
