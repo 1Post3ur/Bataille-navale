@@ -59,13 +59,25 @@ bt4 = []
 bt5 = []
 
 def Traitement():
+    global BAT1,BAT2,BAT3,bt1,bt2,bt3,bt4,bt5 #pour utiliser des variables définie au niveau programme principal
+    #il faut les indiquer comme variable globale dans la fonction
+    
+    #BAT1 BAT2 etc represente les zones de saisies pour le coordonnées du bateau. Pour récupérer (to get en anglais)
+    #le texte inséré il faut appeler leur fonction get() 
+    bt1.append(BAT1.get()[0])
+    bt1.append(BAT1.get()[1])
+    bt2.append(BAT2.get()[0])
+    bt2.append(BAT2.get()[1])
+    bt3.append(BAT3.get()[0])
+    bt3.append(BAT3.get()[1])
+    """
     bt1.append(BAT1[0])
     bt1.append(BAT1[1])
     bt2.append(BAT2[0])
     bt2.append(BAT2[1])
     bt3.append(BAT3[0])
     bt3.append(BAT3[1])
-
+    """
 
 
 
