@@ -91,8 +91,6 @@ generate_bateau(5,5, grille_ia)
 #             print(px, py)
 #             canvas.create_oval(px-10 , py-10 , px+10 , py+10 , fill = "red")
 #
-# # TU AIMES LE CACA ???
-# # OUI !!!!!
 #
 # canvas.pack()
 #
