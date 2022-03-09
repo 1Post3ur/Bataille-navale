@@ -24,6 +24,8 @@ Si vous ne touchez pas de bateaux, la case sera grise, si vous en touchez-un ell
 
 &nbsp;
 
+---
+
 ### Id des bateaux :
 
 - __1, 2, 3, 4, 5 :__ Case occupée par un bateau (par exemple le bateau 1 occupe les cases contenant un 1) __(couleurs multiples : vert, violet, ...)__
@@ -37,6 +39,8 @@ Si vous ne touchez pas de bateaux, la case sera grise, si vous en touchez-un ell
 ###### _Un dictionnaire sert aussi à lier les id à des couleurs, servant dans l'affichage graphique tkinter à les différencier_
 
 &nbsp;
+
+---
 
 ### Fonctionnalités supplémentaires :
 
@@ -96,6 +100,7 @@ btn.bind_all('<KeyPress-Return>', valider)
 entry.delete(0, END)
 ```
 
+---
 
 ### Codes de triche
 
@@ -107,6 +112,8 @@ entry.delete(0, END)
 • `24` : Permet de faire gagner la machine automatiquement
 
 • `99` : Permet d'afficher les bateaux ennemis
+
+---
 
 ### Améliorations possibles du code :
 
