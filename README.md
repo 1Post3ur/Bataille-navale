@@ -1,6 +1,3 @@
 # Bataille-navale
 
-
-
-
-TOUS LES TESTS SONT DANS LA BRANCHE TESTS
+_Il faut aller voir les compte-rendus personnels_ 
