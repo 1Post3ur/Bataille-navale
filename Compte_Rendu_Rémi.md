@@ -98,5 +98,13 @@ entry.delete(0, END)
 
 • `99` : Permet d'afficher les bateaux ennemis
 
+### Améliorations possibles du code :
+
+• Proposer de relancer une partie lorsqu'elle est finie
+
+• Amélioration de l'IA
+
+> Pour améliorer l'ia, on purrait faire en sorte d'enregistrer dans une varibable la coordonnée attaquée si touchée et d'ensuite attaquer les quatre cases autour pour réenregistrer une nouvelle coordonnée touchée, et ainsi de suite ...
+
    [numpy]: <https://numpy.org/>
    [jeu]: <https://github.com/joemccann/dillinger.git>
