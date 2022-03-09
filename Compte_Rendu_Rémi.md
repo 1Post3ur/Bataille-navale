@@ -10,7 +10,7 @@ _Rémi FUNES_
 
 ###### Ces arrays sont ensuites modifiées de manière y remplacer les 0 par d'autres chiffres (des id) représentant les bateaux et leurs états. Il sont notées dans le code à l'aide de la variable ou du paramètre id_bat 
 
-_Lien du [jeu][jeu]_
+###### _Lien du [jeu][jeu]_
 
 &nbsp;
 
