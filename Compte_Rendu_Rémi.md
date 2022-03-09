@@ -4,13 +4,14 @@ _Rémi FUNES_
 
 &nbsp;
 
-###### Le jeu fonctionne à partir de deux arrays (contenant chacun 10 listes de 10 valeurs représentant les lignes et colonnes) qui sont à l'origine remplis de zeros.
+###### Le jeu fonctionne à partir de deux arrays. Ils contiennent chacun 10 listes de 10 valeurs représentant les lignes et colonnes. 
+###### Ces arrays sont à l'origine remplis de zeros.
 
 ###### Les arrays utilisés viennent du module [NumPy][numpy].
 
 ###### Ces arrays sont ensuites modifiées de manière y remplacer les 0 par d'autres chiffres (des id) représentant les bateaux et leurs états. Il sont notées dans le code à l'aide de la variable ou du paramètre id_bat 
 
-###### _Lien du [jeu][jeu]_
+###### _[Lien du jeu][jeu]_
 
 &nbsp;
 
