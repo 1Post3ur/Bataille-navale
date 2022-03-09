@@ -93,7 +93,9 @@ entry.delete(0, END)
 (les rentrer dans l'input de coordonnées à attaquer)
 
 • `42` : Permet de faire gagner le joueur automatiquement
+
 • `24` : Permet de faire gagner la machine automatiquement
+
 • `99` : Permet d'afficher les bateaux ennemis
 
    [numpy]: <https://numpy.org/>
