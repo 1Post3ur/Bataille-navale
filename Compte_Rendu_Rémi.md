@@ -16,7 +16,8 @@ _Rémi FUNES_
 
 #### Comment-jouer ?
 
-    En lancant le jeu, les bateaux sont aléatoirement générés. Il suffit d'entrer des coordonnées, par exemple E4 puis cliquer sur valider ou appuyer sur entrée. Si vous ne touchez pas de bateaux, la case sera grise, si vous en touchez-un elle deviendra rouge. Lorsqu'un bateau coule, toute ses cases deviennent noires.
+En lancant le jeu, les bateaux sont aléatoirement générés. Il suffit d'entrer des coordonnées, par exemple E4 puis cliquer sur valider ou appuyer sur entrée.
+Si vous ne touchez pas de bateaux, la case sera grise, si vous en touchez-un elle deviendra rouge. Lorsqu'un bateau coule, toute ses cases deviennent noires.
 
 &nbsp;
 
