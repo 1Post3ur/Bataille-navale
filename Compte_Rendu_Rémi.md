@@ -74,7 +74,7 @@ def comportement_machine():
             case_non_jouée = True
     return coord_attaquer
 ```
-• La pression de la touche  permet aussi de valider la coordonnée que l'on attaque
+• La pression de la touche <kbd>Enter</kbd> permet aussi de valider la coordonnée que l'on attaque
 ```sh
 btn.bind_all('<KeyPress-Return>', valider)
 # Découverte de args* et kwargs** dans la fonction valider qui prenait donc un paramètre en trop
