@@ -1,5 +1,5 @@
 _Rémi FUNES_
-## Projet Python
+# Projet Python
 ## Bataille Navale
 
 &nbsp;
