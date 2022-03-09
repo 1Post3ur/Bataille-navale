@@ -104,7 +104,7 @@ entry.delete(0, END)
 
 • Amélioration de l'IA
 
-> Pour améliorer l'ia, on purrait faire en sorte d'enregistrer dans une varibable la coordonnée attaquée si touchée et d'ensuite attaquer les quatre cases autour pour réenregistrer une nouvelle coordonnée touchée, et ainsi de suite ...
+> Pour améliorer l'ia, on pourrait faire en sorte d'enregistrer dans une varibable la coordonnée attaquée si touchée et d'ensuite attaquer les quatre cases autour pour réenregistrer une nouvelle coordonnée touchée, et ainsi de suite ...
 
    [numpy]: <https://numpy.org/>
    [jeu]: <https://github.com/joemccann/dillinger.git>
