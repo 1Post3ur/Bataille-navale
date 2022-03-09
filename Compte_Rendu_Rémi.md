@@ -14,6 +14,12 @@ _Rémi FUNES_
 
 &nbsp;
 
+#### Comment-jouer ?
+
+    En lancant le jeu, les bateaux sont aléatoirement générés. Il suffit d'entrer des coordonnées, par exemple E4 puis cliquer sur valider ou appuyer sur entrée. Si vous ne touchez pas de bateaux, la case sera grise, si vous en touchez-un elle deviendra rouge. Lorsqu'un bateau coule, toute ses cases deviennent noires.
+
+&nbsp;
+
 #### Id des bateaux :
 
 - __1, 2, 3, 4, 5 :__ Case occupée par un bateau (par exemple le bateau 1 occupe les cases contenant un 1) __(couleurs multiples : vert, violet, ...)__
@@ -101,6 +107,8 @@ entry.delete(0, END)
 ### Améliorations possibles du code :
 
 • Proposer de relancer une partie lorsqu'elle est finie
+
+• Pouvoir choisir l'emplacement de ses bateaux en début de partie
 
 • Amélioration de l'IA
 
